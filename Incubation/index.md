@@ -5,6 +5,16 @@ title: Incubation
 
 The publishing community group is the place for innovation. We store here intermediate documents that supports the discussions and help keep information together all along the incubation process.
 
+## Current incubation documents
+
+### Ways to publish and consume parallels contents
+
+Adressing the discussion at https://github.com/w3c/epub-specs/discussions/2829 on how publishers can provide similar contents in different forms that may be displayed together or available thru switching mechanism.
+
+- Initial state of the art [Parallel content survey](parallel-content.md)
+- Collection of [Parallel content use cases](parallel-content-usecases.md)
+- Proposal [Explainer — Simplifying EPUB Multiple-Rendition for Representation Mapping](multiple-rendition-simplification-explainer.md)
+
 ---
 
 [W3C Guide on Incubation](https://www.w3.org/guide/incubation.html):
