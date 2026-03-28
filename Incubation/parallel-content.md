@@ -29,6 +29,36 @@ For clarity, we distinguish two categories, only the first one is addressed here
 - **In‑document parallels**: multiple representations of the same logical content within one publication (e.g., two languages side by side; text + image; image + audio; text + video; fixed + reflow; etc.). 
 - **Cross‑document parallels**: two or more separate EPUBs (or items in the same EPUB container) that need synchronised navigation for comparison (e.g., two editions, two translations, article vs preprint). 
 
+## Discussion update — CG plenary 26 February 2026
+
+This document was reviewed during the Publishing Community Group plenary on 26 February 2026. The minutes are available at: [Publishing community group plenary - parallel content in EPUB (26 February 2026)](../Meetings/Minutes/2026-02-26-publishingcg.html).
+
+The discussion confirmed broad interest across publishing sectors (education, newspapers, comics, accessibility, bilingual publishing) and refined the framing of the problem.
+
+### Main takeaways
+
+- The term *parallel content* is useful for user intent, but technical work should focus on **mapping between representations** at varying granularity.
+- Use cases include both:
+  - **consume together** (e.g., text + audio, text + sign language, side-by-side translations), and
+  - **switch between equivalents** (e.g., fixed-layout and reflow, text and braille).
+- Granularity matters: mapping may be needed at article, section, sentence, or region level.
+- Multiple-Rendition remains a strong conceptual base, but implementers report that it is perceived as heavy (multiple OPFs, metadata complexity, mapping ambiguity).
+- There is interest in a lighter model, potentially preserving key ideas (multiple spines/renditions + mapping) while simplifying packaging and processing.
+
+### Accessibility and production feedback captured in the meeting
+
+- Dynamic braille + TTS switching (and in some contexts concurrent consumption) is an active real-world need.
+- Pre-converted braille can provide higher quality than on-the-fly conversion in some production workflows.
+- Educational and multilingual markets require robust side-by-side language experiences.
+- Fixed-layout + reflow pairing remains a high-value accessibility scenario, especially for children’s and textbook content.
+
+### What this document now prioritizes
+
+- Clarify terminology: distinguish **timed synchronization** (Media Overlays style) from broader **representation mapping**.
+- Extract implementable requirements from known use cases before choosing syntax.
+- Evaluate whether existing Multiple-Rendition mechanisms are sufficient if simplified profiles/guidance are defined.
+- In parallel, explore lightweight mapping formats (HTML/XML/JSON) and authoring burden trade-offs.
+
 ## State of the art in and around EPUB
 
 ### Existing mechanisms
@@ -325,6 +355,9 @@ Key characteristics:
 
 
 ## References and links
+
+- Publishing CG plenary minutes (26 February 2026)  
+  ../Meetings/Minutes/2026-02-26-publishingcg.html
 
 - EPUB WG discussion: “Ways to publish and consume parallel contents” (Discussion #2829)  
   https://github.com/w3c/epub-specs/discussions/2829 
