@@ -5,7 +5,7 @@ title: minutes
 
 # Meeting Minutes
 
-* [2026-04-23 Anti-counterfeit options for publishers](2026-04-23-publishingcg.html)
+* [2026-04-23 Protect and Defend Your Content in the Emerging AI Era](2026-04-23-publishingcg.html)
 * [2026-02-26 parallel content in EPUB](2026-01-29-publishingcg.html)
 * [2026-01-29 what is the W3C Web Publications format suitable for?](2026-01-29-publishingcg.html)
 * [2025-11-05 Accessible & interactive publications in the context of Brazil's National Textbook Program (PNLD)](2025-11-05-publishingcg.html) with [Slides from Breno Duarte, from the NEES/UFAL group](../../assets/files/2025-11-05-NEES.pptx.pdf)
