@@ -1,5 +1,3 @@
-![W3C Logo](https://www.w3.org/Icons/w3c_home)
-
 # Publishing Community Group
 
 The Publishing Community Group is open to anyone. [W3C Membership](https://www.w3.org/community/about/faq/#is-w3c-membership-required-to-participate-in-a-community-or-business-group) is not required to join a Community Group. In order to [join the group](https://www.w3.org/community/publishingcg/join), you will need a [W3C account](https://www.w3.org/accounts/request). 
@@ -14,8 +12,8 @@ The goal of the group is to propose, document, and prototype features broadly re
 ## Webpages
 
 * The [W3C Publishing Community Group](https://www.w3.org/community/publishingcg/) is an information page.
-* The [publishingcg Github Page](https://w3c.github.io/publishingcg/) is a ressources page with spaces for task force.
-* This [Github repo for publishing CG](https://github.com/w3c/publishingcg/) hosts the github pages sources and is the place for public discussions that we follow up into [issuess](https://github.com/w3c/publishingcg/issues). Please note we almost do not use the github discussions feature. 
+* The [publishingcg Github Page](https://w3c-cg.github.io/publishingcg/) is a ressources page with spaces for task force.
+* This [Github repo for publishing CG](https://github.com/w3c-cg/publishingcg/) hosts the github pages sources and is the place for public discussions that we follow up into [issuess](https://github.com/w3c-cg/publishingcg/issues). Please note we almost do not use the github discussions feature. 
 
 See [Ways to Contribute](#ways-to-contribute) if you'd like to participate but are unsure how.
 
@@ -32,7 +30,7 @@ See [Ways to Contribute](#ways-to-contribute) if you'd like to participate but a
 ## Dormant task forces
 * [Documentation Task force](TaskForces/documentation/index.md)
 * [Education Task force](TaskForces/education/index.md)
-* [TaskForce vertical-writing-switching](https://github.com/w3c/publishingcg/tree/master/TaskForces/vertical-writing-switching) produced [Alternate Style Tags 1.2 draft](https://htmlpreview.github.io/?https://github.com/w3c/publishingcg/blob/master/TaskForces/vertical-writing-switching/altss-tags.html). 
+* [TaskForce vertical-writing-switching](https://github.com/w3c-cg/publishingcg/tree/master/TaskForces/vertical-writing-switching) produced [Alternate Style Tags 1.2 draft](https://htmlpreview.github.io/?https://github.com/w3c-cg/publishingcg/blob/master/TaskForces/vertical-writing-switching/altss-tags.html). 
 
 
 ## Useful Links
@@ -57,7 +55,7 @@ See [Ways to Contribute](#ways-to-contribute) if you'd like to participate but a
 ## Ways to Contribute
 
 - [Join the CG](https://www.w3.org/community/wp-login.php?redirect_to=%2Fcommunity%2Fpublishingcg%2Fjoin) and participate in group calls.
-- Join the discussion around your [issues of interest](https://github.com/w3c/publishingcg/issues).
+- Join the discussion around your [issues of interest](https://github.com/w3c-cg/publishingcg/issues).
 - File new issues and rally the community around them. The more interest around an issue, the more likely it is to thrive.
 - Not sure if an issue belongs here? File it anyway, and the community can help you identify the proper channel.
 - Contribute to documentation and prototypes as well as you can. Members are encouraged to contribute with their own expertise.
