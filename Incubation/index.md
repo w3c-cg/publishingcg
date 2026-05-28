@@ -5,6 +5,15 @@ title: Incubation
 
 The publishing community group is the place for innovation. We store here intermediate documents that supports the discussions and help keep information together all along the incubation process.
 
+In the publishing industry, most incubation work occurs within book-sector specialised membership organisations, which devote significant effort to reaching professionals and to collecting feedback from multiple sources. 
+The publishing community group's role is then often to gather broader public feedback before passing it on to the working group. To make this feedback process as efficient as possible, it focused its work on:
+
+1. Translating technical issues into practical, real-world implications for the publishing community.
+2. Develop "impact statements" that clearly articulate why publishers and developers should engage.
+3. Proactively reach out to a diverse range of stakeholders, including non-technical individuals, as well as both small and large publishers and developers.
+
+Ready-to-use notes can be developed within the publishing community group, as it is an open space, and can then be submitted to the working group.
+
 ## Current incubation documents
 
 ### Ways to publish and consume parallels contents
