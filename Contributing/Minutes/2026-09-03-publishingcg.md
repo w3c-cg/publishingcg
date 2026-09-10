@@ -114,5 +114,5 @@ The overall direction is practical and community-focused: lower participation ba
 ## Links and ressources
 
 * [Entry point for the W3C EPUB Recommendation](https://w3c.github.io/epub/) 
-* [Publishing-CG page on Github](https://github.com/w3c-cg/publishingcg/)
+* [Publishing-CG page on Github](https://w3c-cg.github.io/publishingcg/)
 * [W3C Slack channel](https://w3ccommunity.slack.com/join/shared_invite/zt-43z2v1knl-V2OjtO4vDirH3DABOsDg3w#/shared-invite/email)
