@@ -9,6 +9,8 @@ date: 2026-10-01
 **Publishing Community Group Plenary:** **Launching Digital Comics Task Force** 
 **Minutes 01 October 2026 / 12:00 PM EDT = 16:00 PM UTC**
 
+*A second discussion for this work is planned October 15th at 4 pm JST*
+
 
 ## Attendees
 
