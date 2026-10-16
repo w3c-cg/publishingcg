@@ -46,7 +46,7 @@ Hadrien: we know EPUB is mainly used for manga distribution files but not for co
 
 Hadrien: what we propose for his issue is to keep HTML in the spine but include an image as a fallback; this way you respect the spec, and any RS can display correctly. For specialised stores or RS, it's easy to find the image you need and forget HTML. 
 
-ToshiakiKoike: it’s good; it is worse knowing we also use the image map feature. We use XHTML for content so we can use image map features. 
+Toshiaki: it’s good; it is worse knowing we also use the image map feature. We use XHTML for content so we can use image map features. 
 
 Hadrien: I see that linked to the ability to draw regions in images; today there are many ways to do this, like panel by panel and defining sequences. I suggest we open an issue to discuss that. We may want something stronger in the future, but for now, documenting the way you do it in Japan would help. 
 
@@ -58,14 +58,14 @@ Hadrien: How to deal with two spreads? Using metadata does not work sufficiently
 
 Shinya: it would be good to have demos and mockups to visualise how this could work.
 
-HisahiSaiga: that’s letting the user choose how he wants to read (portrait or landscape, paginated or scrolled). Reading systems will need to take that into account.
+Hisahi: that’s letting the user choose how he wants to read (portrait or landscape, paginated or scrolled). Reading systems will need to take that into account.
 
 ### Topic: metadata
 
 Hadrien: There are several points regarding metadata; for example, covers: we sometimes want more than one cover. Another point is which accessibility metadata we should include; that’s mandatory in Europe, even for non accessible ebooks. Other metadata includes seasons, episodes, series, volume, and collection information to aggregate several files. Those are a few examples; there are more in the issue tracker. 
 
-NagaoKodansha: In order to include information in the metadata about which seasons or series a product belongs to—rather than just information about the individual product itself—I believe it would first be necessary to standardize the product management systems used internally by each company. That would take a considerable amount of time and effort, and I felt that reaching an agreement on this would be quite challenging.  
-HenryChocolatkey: I don’t think this specific issue is much of a blocker since almost every distributor does provide the series name and the “order” number in the series as part of their metadata. For multiple levels, yes, but for simple volume number it’s doable
+Nagao: In order to include information in the metadata about which seasons or series a product belongs to—rather than just information about the individual product itself—I believe it would first be necessary to standardize the product management systems used internally by each company. That would take a considerable amount of time and effort, and I felt that reaching an agreement on this would be quite challenging.  
+Henry: I don’t think this specific issue is much of a blocker since almost every distributor does provide the series name and the “order” number in the series as part of their metadata. For multiple levels, yes, but for simple volume number it’s doable
 
 Hadrien: remember best practice are a mean to push people in the right direction, we know it will tak time. 
 
@@ -73,7 +73,7 @@ Hadrien: in EPUB 3.4 we included new image formats support, it’s also a good d
 
 ## Action items
 
-Everyone: look at the issues with label TF:Comics, discuss them in your organisation and comment in the issues.` 
+Everyone: look at the [issues with label TF:Comics](https://github.com/w3c-cg/publishingcg/issues?q=label%3A%22TF%3A+Comics%22), discuss them in your organisation and comment in the issues.` 
 
 ## Resume
 
