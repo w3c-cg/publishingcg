@@ -10,6 +10,8 @@ The minutes of the meetings, including the minutes of the WG Task Forces, are st
 An index of all agendas and minutes is available below.
 
 ## Meeting Agenda and Minutes
+* [2026, November 05th, Reporting and documenting AI in ebooks](Minutes/2026-11-05-publishingcg.html). Publishers have brought forward the requirement from the EU to report and document the use of AI in the production of published materials. There are two Github issue on this topic: [Reporting and documenting the use of AI in published documents](https://github.com/w3c-cg/publ-a11y/issues/814) and 
+[Identifying AI contributions to EPUB content](https://github.com/w3c/epub-specs/issues/2833#issuecomment-6570781747).
 * [2026, October 15th, Digital Comics Task Force - Asian focus](Minutes/2026-10-15-publishingc-comicTFAsianFocus.html).
 * [2026, October 1, Launching Digital Comics Task Force](Minutes/2026-10-01-publishingc-comicTF.html). Digital Comics Task Force aims to address specific non-normative work and challenges within the digital comics ecosystem. This plenary will present the challenges and process for this work, which, given the significant time zone differences, will prioritise writing-based collaboration via GitHub Issues labelled with TF: Comics and reach out to publishers and reading system creators to collect feedback and encourage participation. 
 * [2026, September 3th, tools for the publishing community group](Minutes/2026-09-03-publishingcg.html) As our group continues to facilitate incubation and support the advancement of digital publishing standards, we aim to discuss how we can refine our processes to better support our collaborative goals and clarify how our group's work aligns with the broader W3C ecosystem. 
